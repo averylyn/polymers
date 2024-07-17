@@ -1,4 +1,4 @@
-package com.averylynlei;
+package com.averylynlei.polymers;
 
 import static org.junit.Assert.assertTrue;
 
